@@ -8,7 +8,7 @@ By [**Samiul Gazi**](https://github.com/Samiul1947).
 
 
 ## Project Overview
-- **Dataset:** `sample-data-10mins.xlsx`
+- **Dataset:** `Awesome chocolate data analysis dataset.xlsx`
 - **Dashboard File:** `My FIRST awesome chocolate data analysis Power BI report S Gazi.pbix`
 - **Objective:** Derive business insights from sales data to understand revenue patterns, product performance, and regional contribution.
 - **Tools Used:** Microsoft Excel | Power BI Desktop | Power Query | DAX | Data Visualization
@@ -32,7 +32,7 @@ By [**Samiul Gazi**](https://github.com/Samiul1947).
 Comprehensive-data-analysis-of-chocolate-sales/
 │
 ├── data/
-│   └── sample-data-10mins.xlsx
+│   └── Awesome chocolate data analysis dataset.xlsx
 │
 ├── dashboard/
 │   └── My FIRST awesome chocolate data analysis Power BI report S Gazi.pbix
@@ -70,7 +70,7 @@ Comprehensive-data-analysis-of-chocolate-sales/
    ```bash
    git clone https://github.com/Samiul1947/Comprehensive-data-analysis-of-chocolate-sales.git
    ```
-2. Open `data/sample-data-10mins.xlsx` to view raw data.  
+2. Open `data/Awesome chocolate data analysis dataset.xlsx` to view raw data.  
 3. Open the `.pbix` file in **Power BI Desktop** to explore the dashboard.  
 4. Check `screenshots/` for preview images.
 
