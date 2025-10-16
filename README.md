@@ -26,9 +26,9 @@ By [**Samiul Gazi**](https://github.com/Samiul1947).
 | **Profit Drivers / Top Channels** | Premium and dark chocolate categories generate higher margins; retail channels dominate sales. |
 
 
-
 ##  Repository Structure
 
+```
 Comprehensive-data-analysis-of-chocolate-sales/
 │
 ├── data/
@@ -43,8 +43,7 @@ Comprehensive-data-analysis-of-chocolate-sales/
 │   └── region_analysis.png
 │
 └── README.md
-
-
+```
 
 
 ##  Tools & Technologies
