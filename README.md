@@ -35,7 +35,7 @@ Comprehensive-data-analysis-of-chocolate-sales/
 │   └── Awesome chocolate data analysis dataset.xlsx
 │
 ├── dashboard/
-│   └── My FIRST awesome chocolate data analysis Power BI report S Gazi.pbix
+│   └── Awesome chocolate data analysis Power BI report S Gazi.pbix
 │
 ├── screenshots/
 │   ├── dashboard_overview.png
@@ -78,8 +78,8 @@ Comprehensive-data-analysis-of-chocolate-sales/
 ##  Dashboard Preview
   
 
-<img width="1415" height="797" alt="power bi dashboard view" src="https://github.com/user-attachments/assets/36679999-6d3e-4e83-a22a-a536c7c2fe73" />
 
+<img width="1358" height="763" alt="Awesome Chocolate Data Analysis Dashboard" src="https://github.com/user-attachments/assets/10b45158-b9ca-41f1-8e37-29228ede639b" />
 
 
 ##  Future Enhancements
